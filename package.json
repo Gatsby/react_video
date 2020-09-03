@@ -33,7 +33,7 @@
     "react-redux": "4.3.0",
     "react-router": "^2.0.1",
     "redux": "^3.0.4",
-    "serve": "^10.1.1",
+    "serve": "^10.1.2",
     "youtube-api-search": "0.0.5"
   }
 }
